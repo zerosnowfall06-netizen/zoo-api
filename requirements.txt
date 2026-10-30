@@ -1,0 +1,4 @@
+fastapi[standard]>=0.115.0
+requests>=2.31.0
+uvicorn>=0.30.0
+gunicorn>=21.2.0
