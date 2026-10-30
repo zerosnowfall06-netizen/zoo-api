@@ -1,0 +1,52 @@
+{
+    "source": "องค์การสวนสัตว์แห่งประเทศไทย ในพระบรมราชูปถัมภ์ (Data.go.th)",
+    "dataset_id": "zoo-visitors2569",
+    "resource_id": "0ecc96cf-d914-42a1-b184-dbbd013c3c9c",
+    "fiscal_year": "2569",
+    "source_url": "https://data.go.thzoo-visitors2569",
+    "status": "success_from_resource",
+    "data": [
+        {
+            "zoo_name": "สวนสัตว์เปิดเขาเขียว",
+            "visitors_thai": 45200,
+            "visitors_foreign": 12800,
+            "total": 58000,
+            "month": "ตุลาคม"
+        },
+        {
+            "zoo_name": "สวนสัตว์เชียงใหม่",
+            "visitors_thai": 28400,
+            "visitors_foreign": 9500,
+            "total": 37900,
+            "month": "ตุลาคม"
+        },
+        {
+            "zoo_name": "สวนสัตว์นครราชสีมา",
+            "visitors_thai": 31200,
+            "visitors_foreign": 1100,
+            "total": 32300,
+            "month": "ตุลาคม"
+        },
+        {
+            "zoo_name": "สวนสัตว์สงขลา",
+            "visitors_thai": 14500,
+            "visitors_foreign": 4200,
+            "total": 18700,
+            "month": "ตุลาคม"
+        },
+        {
+            "zoo_name": "สวนสัตว์อุบลราชธานี",
+            "visitors_thai": 19200,
+            "visitors_foreign": 500,
+            "total": 19700,
+            "month": "ตุลาคม"
+        },
+        {
+            "zoo_name": "สวนสัตว์ขอนแก่น",
+            "visitors_thai": 22100,
+            "visitors_foreign": 800,
+            "total": 22900,
+            "month": "ตุลาคม"
+        }
+    ]
+}
